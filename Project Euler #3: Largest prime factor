@@ -1,0 +1,10 @@
+def Largest(n):
+    i=2
+    while i<=(n**(1/2)):
+        if(n%i==0):
+            n//=i
+        else:
+            i+=1
+    return n
+for j in range(eval(input())):
+    print(Largest(eval(input())))

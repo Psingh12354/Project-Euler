@@ -1,0 +1,14 @@
+Plist = []
+for i in range(100, 1000):
+    for j in range(100, 1000):
+        a = i * j
+        if str(a) == str(a)[::-1] and a not in Plist:
+            Plist.append(a)
+Plist.sort()
+length = len(Plist.sort())
+for _ in range(int(input())):
+    a=int(input())
+    for i in range(length - 1, -1, -1):
+        if Plist[i] < a:
+            print(Plist[i])
+            break

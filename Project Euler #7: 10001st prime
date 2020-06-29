@@ -1,0 +1,9 @@
+```
+p={i for i in range(2,105000)}
+for i in range(2,325):
+    p=p.difference({i for i in range(i*2,200000,i)})
+p=list(sorted(p))
+for _ in range(int(input())):
+    n=int(input())
+    print(p[n-1])
+```

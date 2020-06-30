@@ -1,0 +1,10 @@
+for a0 in range(int(input())):
+    n,k = map(int,input().split())
+    num = input()
+    ls=[]
+    for i in  range(n-k):
+        m=1
+        for j in num[i:i+k]:
+            m*=int(j)
+        ls.append(m)
+    print(max(ls))

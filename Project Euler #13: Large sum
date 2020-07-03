@@ -1,0 +1,5 @@
+sum=0
+for i in range(int(input())):
+    num=int(input())
+    sum+=num
+print(str(sum)[0:10])

@@ -1,0 +1,4 @@
+import math
+for _ in range(int(input())):
+    s=math.factorial(int(input()))
+    print(sum(map(int,str(s))))

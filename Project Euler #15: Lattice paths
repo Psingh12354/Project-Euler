@@ -1,0 +1,4 @@
+from math import factorial as fact
+for i in range(int(input()):
+    n,m = [int(j) for j in input().split()]
+    print(int(fact(m + n)/(fact(m) * fact(n))) % 1000000007)

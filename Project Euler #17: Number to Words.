@@ -1,0 +1,17 @@
+digits = ['','One ','Two ','Three ','Four ','Five ','Six ','Seven ','Eight ','Nine ','Ten ','Eleven ','Twelve ','Thirteen ','Fourteen ','Fifteen ','Sixteen ','Seventeen ','Eighteen ','Nineteen ']
+two_d=['','','Twenty ','Thirty ','Forty ','Fifty ','Sixty ','Seventy ','Eighty ','Ninety ']
+powers = ['','Thousand ','Million ','Billion ','Trillion ']
+def tens(n):
+    if n<20: return digits[n]
+    return two_d[n//10]+digits[n%10]
+def hundered(n):
+    if n < 100: return tens(n%100)
+    return digits[n//100]+'Hundred '+tens(n%100)
+def word(n):
+    c, w = 0, ''
+    while n>0:
+        h = n%1000
+        if h!=0: w = hundered(h) + powers[c] + w
+        n, c = n//1000, c+1
+    return w
+for _ in range(int(input())): print(word(int(input())))

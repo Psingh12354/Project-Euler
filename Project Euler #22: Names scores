@@ -1,0 +1,7 @@
+arr=[]
+for i in range(int(input())):
+    arr.append(input())
+arr1=[]
+for j in range(int(input())):
+    arr1.append(input())
+    print((sum(map(ord,arr1[j]))-(64*len(arr1[j])))*(sorted(arr).index(arr1[j])+1))

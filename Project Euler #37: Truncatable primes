@@ -1,0 +1,48 @@
+#include <set>
+#include <iostream>
+#include<math.h>
+using namespace std;
+int main()
+{
+    int n;
+    cin >> n;
+    set<int> primes;
+    primes={2,3,5,7};
+    int sum = 0;
+  for (int i = 11; i < n;i+=2)
+  {
+    bool isPrime = true;
+    for(auto p : primes)
+    {
+      if (pow(p,2) > i)
+        break;
+      if (i % p == 0)
+      {
+        isPrime = false;
+        break;
+      }
+    }
+    if (!isPrime)
+      continue;
+    primes.insert(i);
+    auto right = i;
+    while (right > 0 && primes.count(right) != 0)
+      right = right/10;
+    if (right != 0)
+      continue;
+    auto left = i;
+    int factor = 1;
+    while(factor * 10 <= left)
+      factor= factor*10;
+    while (left > 0 && primes.count(left) != 0)
+    {
+      left = left%factor;
+      factor= factor/10;
+    }
+    if (left != 0)
+      continue;
+    sum = sum+i;
+  }
+    cout << sum << "\n";
+  return 0;
+}

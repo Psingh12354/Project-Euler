@@ -1,5 +1,5 @@
 <h1 align=center><b>Project-Euler</b></h1>
-### Here i upload my HackerRank Project Euler Code
+<h2><b> Here i upload my HackerRank Project Euler Code</b></h2>
 <p align=center><img src=hack.png wigth=40 height=80></img></p>
 <p>Click on the below link to get the <b><i>source code</i></b></p>
 

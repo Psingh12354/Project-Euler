@@ -1,4 +1,4 @@
-<h align=center><b>Project-Euler</b></h>
+<h1 align=center><b>Project-Euler</b></h1>
 ### Here i upload my HackerRank Project Euler Code
 <p align=center><img src=hack.png wigth=40 height=80></img></p>
 <p>Click on the below link to get the <b><i>source code</i></b></p>

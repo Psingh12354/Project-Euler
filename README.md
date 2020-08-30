@@ -1,6 +1,6 @@
 <h1 align=center><b>Project-Euler</b></h1>
 <h2><b> Here i upload my HackerRank Project Euler Code</b></h2>
-![](hack.png)
+<img src="">
 <p>Click on the below link to get the <b><i>source code</i></b></p>
 
 - [Project Euler #1: Multiples of 3 and 5](https://github.com/Psingh12354/Project-Euler/blob/master/Project%20Euler%20%231:%20Multiples%20of%203%20and%205)

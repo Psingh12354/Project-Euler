@@ -4,7 +4,7 @@
 <p>Click on the below link to get the <b><i>source code</i></b></p>
 
 | **Program** |**Source Code**| **Programming Language** |
-| ------------------------------------------------------ | ------------------------- | ---------------------------------|
+| :----------------------------------------- | :-------------------------: | :---------------------------------: |
 | Project Euler #1: Multiple widths of 3 and | [Project Euler #1: Multiple widths of 3 and 5](https://github.com/Psingh12354/Project-Euler/blob/master/Project%20Euler%20%231:%20Multiples%20of%203%20and%205) | Python |
 | Project Euler #2: Even Fibonacci numbers | [Project Euler #2: Even Fibonacci numbers](https://github.com/Psingh12354/Project-Euler/blob/master/Project%20Euler%20%232:%20Even%20Fibonacci%20numbers) | Python |
 | Project Euler #3: Largest prime factor | [Project Euler #3: Largest prime factor](https://github.com/Psingh12354/Project-Euler/blob/master/Project%20Euler%20%233:%20Largest%20prime%20factor) | Python |

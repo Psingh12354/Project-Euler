@@ -9,7 +9,7 @@
 | Project Euler #2: Even Fibonacci numbers | [Project Euler #2: Even Fibonacci numbers](https://github.com/Psingh12354/Project-Euler/blob/master/Project%20Euler%20%232:%20Even%20Fibonacci%20numbers) | Python |
 | Project Euler #3: Largest prime factor | [Project Euler #3: Largest prime factor](https://github.com/Psingh12354/Project-Euler/blob/master/Project%20Euler%20%233:%20Largest%20prime%20factor) | Python |
 | Project Euler #4: Largest palindrome | [Project Euler #4: Largest palindrome](https://github.com/Psingh12354/Project-Euler/blob/master/Project%20Euler%20%234:%20Largest%20palindrome%20product) | Python |
-| Project Euler #5: Smallest multiple | [Project Euler #5: Smallest multiple](https://github.com/Psingh12354/Project-Euler/blob/master/Project%20Euler%20%235:%20Smallest%20multiple) |  |
+| Project Euler #5: Smallest multiple | [Project Euler #5: Smallest multiple](https://github.com/Psingh12354/Project-Euler/blob/master/Project%20Euler%20%235:%20Smallest%20multiple) | Python |
 | Project Euler #5: Smallest multiple | [Project Euler #5: Smallest multiple](https://github.com/Psingh12354/Project-Euler/blob/master/Project%20Euler%20%235:%20Smallest%20multiple) | Python |
 | Project Euler #6: Sum square differenc | [Project Euler #6: Sum square differenc](https://github.com/Psingh12354/Project-Euler/blob/master/Project%20Euler%20%236:%20Sum%20square%20difference) | Python |
 | Project Euler #7: 10001st prime | [Project Euler #7: 10001st prime](https://github.com/Psingh12354/Project-Euler/blob/master/Project%20Euler%20%237:%2010001st%20prime) | Python |

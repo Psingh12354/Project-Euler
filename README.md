@@ -5,7 +5,7 @@
 
 | **Program** |**Source Code**| **Programming Language** |
 | :----------------------------------------- | :-------------------------: | :---------------------------------: |
-| Project Euler #1: Multiple widths of 3 and | [Project Euler #1: Multiple widths of 3 and 5](https://github.com/Psingh12354/Project-Euler/blob/master/Project%20Euler%20%231:%20Multiples%20of%203%20and%205) | Python |
+| Project Euler #1: Multiple widths of 3 and | [Project Euler #1: Multiple widths of 3 and 5](https://github.com/Psingh12354/Project-Euler/blob/master/Project%20Euler%20%231:%20Multiples%20of%203%20and%205) | Python/Java |
 | Project Euler #2: Even Fibonacci numbers | [Project Euler #2: Even Fibonacci numbers](https://github.com/Psingh12354/Project-Euler/blob/master/Project%20Euler%20%232:%20Even%20Fibonacci%20numbers) | Python |
 | Project Euler #3: Largest prime factor | [Project Euler #3: Largest prime factor](https://github.com/Psingh12354/Project-Euler/blob/master/Project%20Euler%20%233:%20Largest%20prime%20factor) | Python |
 | Project Euler #4: Largest palindrome | [Project Euler #4: Largest palindrome](https://github.com/Psingh12354/Project-Euler/blob/master/Project%20Euler%20%234:%20Largest%20palindrome%20product) | Python |
